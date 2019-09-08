@@ -1,14 +1,14 @@
 {
-  "name": "fastify-redis-bearer-auth-mlk",
+  "name": "fr-bearer-auth-mlk",
   "version": "0.1.0",
-  "description": "Redis-based session auth function for fastify bearer auth",
+  "description": "Redis-based session auth function for Fastify bearer auth",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git@evanx.github.com:evanx/fastify-redis-bearer-auth-mlk.git"
+    "url": "git@evanx.github.com:evanx/fr-bearer-auth-mlk.git"
   },
   "author": "Evan Summers",
   "license": "Apache-2.0",
