@@ -1,4 +1,6 @@
-# fastify-redis-bearer-auth-mlk
+# fr-bearer-auth-mlk
+
+THIS IS WORK IN PROGRESS 
 
 Fastify plugin for Redis-based auth via bearer session token.
 
